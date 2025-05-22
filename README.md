@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MuSu124
-- 👀 I’m interested in ideal realtionship
+- 👀 I’m interested in 
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
